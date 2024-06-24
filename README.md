@@ -50,7 +50,7 @@ Lag experienced from international players is typically in the form of input del
 If you're able to watch the stream and don't plan on playing anytime soon, please leave the arena to let more people in.
 
 ## 6. Don't spam the start button when others are trying to enter the ring
-Nobody likes start spam.
+Nobody likes start spam.<br>
 If we feel you are not going to stop, you will be banned from the arena. There will be a chance to appeal after 3 days.
 
 # Arena Music
