@@ -29,29 +29,38 @@
 > Avoid being a dick and you'll be fine.
 
 ## 1. Don't be a dick
+> [!CAUTION]
+> You will be banned from the arena for repeated violations of this rule, with a chance to appeal your ban after 2 weeks.
+
 Turning a 1v1v1 or a 2v2 into a 2v1 or 3v1 is not enjoyable for anyone.<br>
-All it does is prove you're that terrible at the game that you have to rely on 2v1s/3v1s to win. And it's so much worse for you if you lose.<br>
-If we feel you are purposefully doing 2v1s/3v1s, you will be banned from the arena. There will be a chance to appeal after 2 weeks.
+All it does is prove you're that terrible at the game that you have to rely on 2v1s/3v1s to win. And it's so much worse for you if you lose.
 
 ## 2. Use Ethernet if WiFi isn't cutting it
 If matches start lagging when you join or your internet keeps disconnecting mid-battle, please do us all a favour and connect your Switch to Ethernet.<br>
 If you do not have the OLED model or the OLED model's dock, you will need a USB to ethernet adapter. We recommend trusted brands like TP-Link.<br>
 **Your speed tests do not matter**. Packet loss is the primary cause of stuttering. High ping between one or more players is the primary cause of input delay.
 
-## 3. "No fighting" battles are heavily frowned upon here
+## 3. "No fighting" battles are not allowed here
+> [!CAUTION]
+> You will be banned from the arena for repeated violations of this rule, with a chance to appeal your ban after 3 days.
+
 7 minute matches where everyone does literally nothing aren't fun to watch.<br>
-If you really want to do nothing in a game you spent £60+ on, just create an arena yourself with the name "NO FIGHTING" or some shit like that.<br>
-We will be taking further action against this going forward. If we feel you are not going to stop, even after being kicked, you will be banned from the arena. There will be a chance to appeal after 3 days.
+If you really want to do nothing in a game you spent real world money on, just create an arena yourself with the name "NO FIGHTING" or some shit like that.
 
 ## 4. International players are allowed
+> [!NOTE]
+> The arena is hosted in England.
+
 Lag experienced from international players is typically in the form of input delay. Input delay is more consistent than the stuttering you get with high packet loss.
 
 ## 5. Avoid using spectator stands
 If you're able to watch the stream and don't plan on playing anytime soon, please leave the arena to let more people in.
 
 ## 6. Don't spam the start button when others are trying to enter the ring
-Nobody likes start spam.<br>
-If we feel you are not going to stop, you will be banned from the arena. There will be a chance to appeal after 3 days.
+> [!CAUTION]
+> You will be banned from the arena for repeated violations of this rule, with a chance to appeal your ban after 3 days.
+
+Nobody likes dealing with start spam, and chances are you will only make players target you more in battle.
 
 # Arena Music
 > [!IMPORTANT]
