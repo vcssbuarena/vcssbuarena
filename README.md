@@ -1,3 +1,10 @@
+# Jump to Section
+[Setup & Accessories](#setup--accessories)<br>
+[Contact/Socials](#contact-socials)<br>
+[Arena Rules](#arena-rules)<br>
+[Arena Music](#arena-music)<br>
+[Dynamic Music](#dynamic-music)
+
 # Setup & Accessories
 > [!IMPORTANT]
 > **All links below are Amazon affiliate links.**
