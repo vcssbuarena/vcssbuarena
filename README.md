@@ -64,11 +64,26 @@ Nobody likes dealing with start spam, and chances are you will only make players
 
 # Arena Music
 > [!IMPORTANT]
-> This is only here for future reference. This system is not currently active yet.
+> This is here for future reference. This system is not currently active yet.
 
 ## Jump to Section
+[Notes](#notes)
 
 ## Notes
 1. Every time a new arena is created, there's a 30% chance our bot will change the arena music. It'll randomly choose a song from a list of songs we've set up.
 2. **Gamer - Wario** has a fixed 0.001% chance of being played.
 3. **25m Theme - Donkey Kong** can only play on the 1st of April (GMT/BST).
+
+# Dynamic Music
+> [!IMPORTANT]
+> This is here for future reference. This is not currently active yet.
+
+## Jump to Section
+[Info](#info)
+
+## Info
+Dynamic music tries to determine the current state of the game to play custom music on stream instead of being limited to the music Smash gives you.
+
+## Battle Music
+
+## Arena Lobby Music
