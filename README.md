@@ -1,6 +1,6 @@
 # Jump to Section
 [Setup & Accessories](#setup--accessories)<br>
-[Contact/Socials](#contact-socials)<br>
+[Contact/Socials](#contactsocials)<br>
 [Arena Rules](#arena-rules)<br>
 [Arena Music](#arena-music)<br>
 [Dynamic Music](#dynamic-music)
