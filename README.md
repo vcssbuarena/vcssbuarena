@@ -65,6 +65,9 @@ If you really want to do nothing in a game you spent real world money on, just c
 Lag experienced from international players is typically in the form of input delay. Input delay is more consistent than the stuttering you get with high packet loss.
 
 ## 5. Avoid using spectator stands
+> [!NOTE]
+> You will not get banned for repeated violations of this rule.
+
 If you're able to watch the stream and don't plan on playing anytime soon, please leave the arena to let more people in.
 
 ## 6. Don't spam the start button when others are trying to enter the ring
