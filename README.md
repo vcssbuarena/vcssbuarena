@@ -79,7 +79,9 @@ Nobody likes dealing with start spam, and chances are you will only make players
 > This is here for future reference. This is not currently active yet.
 
 ## Jump to Section
-[Info](#info)
+[Info](#info)<br>
+[Battle Music](#battle-music)<br>
+[Arena Lobby Music](#arena-lobby-music)
 
 ## Info
 Dynamic music tries to determine the current state of the game to play custom music on stream instead of being limited to the music Smash gives you.
