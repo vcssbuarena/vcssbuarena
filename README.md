@@ -3,7 +3,11 @@
 [Contact/Socials](#contactsocials)<br>
 [Arena Rules](#arena-rules)<br>
 [Arena Music](#arena-music)<br>
-[Dynamic Music](#dynamic-music)
+&ensp;&ensp;&ensp;[Notes](#notes)<br>
+[Dynamic Music](#dynamic-music)<br>
+&ensp;&ensp;&ensp;[Info](#info)<br>
+&ensp;&ensp;&ensp;[Battle Music](#battle-music)<br>
+&ensp;&ensp;&ensp;[Arena Lobby Music](#arena-lobby-music)
 
 # Setup & Accessories
 > [!IMPORTANT]
